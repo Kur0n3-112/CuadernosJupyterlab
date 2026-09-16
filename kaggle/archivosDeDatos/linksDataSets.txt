@@ -1,0 +1,4 @@
+- https://www.kaggle.com/datasets/maxhorowitz/nflplaybyplay2009to2016 - Detailed NFL Play-by-Play Data 2009-2018
+- https://www.kaggle.com/datasets/christopheiv/winemagdata130k - winemag-data-130k-v2.csv
+- https://www.kaggle.com/datasets/batuhanbaykalll/youtube-gbvideos - youtube_GBvideos
+- https://www.kaggle.com/datasets/kunxue/cavideos - youtube_CAvideos
