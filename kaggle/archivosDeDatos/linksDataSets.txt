@@ -6,3 +6,4 @@
 - https://www.kaggle.com/datasets/nasa/landslide-events - Landslides After Rainfall, 2007-2016
 - https://www.kaggle.com/datasets/kemical/kickstarter-projects - Kickstarter Projects
 - https://www.kaggle.com/datasets/alexisbcook/pakistan-intellectual-capital - Pakistan Intellectual Capital
+- https://www.kaggle.com/datasets/alexisbcook/data-for-datavis/data?select=fifa.csv - Interesting Data to Visualize
