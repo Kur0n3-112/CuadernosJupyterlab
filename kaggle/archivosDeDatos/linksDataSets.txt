@@ -2,3 +2,7 @@
 - https://www.kaggle.com/datasets/christopheiv/winemagdata130k - winemag-data-130k-v2.csv
 - https://www.kaggle.com/datasets/batuhanbaykalll/youtube-gbvideos - youtube_GBvideos
 - https://www.kaggle.com/datasets/kunxue/cavideos - youtube_CAvideos
+- https://www.kaggle.com/datasets/pratul007/global-landslide-catalog-export - Global Landslide Catalog NASA
+- https://www.kaggle.com/datasets/nasa/landslide-events - Landslides After Rainfall, 2007-2016
+- https://www.kaggle.com/datasets/kemical/kickstarter-projects - Kickstarter Projects
+- https://www.kaggle.com/datasets/alexisbcook/pakistan-intellectual-capital - Pakistan Intellectual Capital
