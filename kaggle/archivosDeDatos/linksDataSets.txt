@@ -11,3 +11,4 @@
 - https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database - SQL Murder Mystery Database
 - https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot - Melbourne Housing Snapshot
 - https://www.kaggle.com/datasets/mathan/fifa-2018-match-statistics - Predict FIFA 2018 Man of the Match
+- https://www.kaggle.com/datasets/ryanholbrook/dl-course-data?select=red-wine.csv - DL Course Data
